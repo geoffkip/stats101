@@ -1,2 +1,2 @@
-# stats101
-Basic stats for data science
+## stats101
+Basic stats cheat sheet
