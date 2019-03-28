@@ -1,2 +1,2 @@
 ## stats101
-Basic stats cheat sheet
+Created a cheatsheet of basic stats I use in my job.
